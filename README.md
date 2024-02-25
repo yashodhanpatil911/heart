@@ -1,2 +1,2 @@
 # heart
-this is a heart beat made nfrom simple css and html
+this is a heart beat made from simple css and html
