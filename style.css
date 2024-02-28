@@ -43,9 +43,9 @@ body{
     content: '';
     position :absolute;
     height :70px;
-    width :70px;
+    width :80px;
     background : #f20044;
     right :-50%;
-    border-radius:50px;
+    border-radius: 50px;
     box-shadow:  -10px -10px 90px #f20044;
 }
